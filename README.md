@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is UMANG JOGANI
 
-<img align="right" alt="Coding" width="400" src="logo/sample.gif">
+<img align="right" alt="Coding" width="400" height="300" src="logo/sample.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-jogani&label=Profile%20views&color=0e75b6&style=flat" alt="umang-jogani" /> </p>
 
